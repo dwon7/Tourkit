@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tourkit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01b589f389621d6f819a59352d3a50745240a151")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1601a132c8085a02f9aed91f52ccf3eed0d5412")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tourkit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tourkit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
